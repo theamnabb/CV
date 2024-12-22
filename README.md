@@ -17,9 +17,8 @@ Please find attached my [CV]().
 
 ## Author
 
-👤 **AaMna AnSari**
-
-* LinkedIn: [@aamnansari](https://www.linkedin.com/in/aamnansari/)
-* GitHub: [@aamna-ansari](https://github.com/aamna-ansari)
-* Email: [@theaamnansari](mailto:theaamnansari@gmail.com)
+ **AaMna AnSari**
+ 
+ <a href="https://www.linkedin.com/in/aamnansari/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="32px" height="32px"></img></a> 
+ <a href="mailto:theaamnansari@gmail.com"><img src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png" width="32px" height="32px"></img></a>
 
