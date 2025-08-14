@@ -17,7 +17,7 @@ Please find attached my [CV]().
 
 ## Author
 
- **AaMna AnSari**
+ **Amna BiBi**
  
  <a href="https://www.linkedin.com/in/theamnabb/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="32px" height="32px"></img></a> 
  <a href="mailto:theamnabb@gmail.com"><img src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png" width="32px" height="32px"></img></a>
