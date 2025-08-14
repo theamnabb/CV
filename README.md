@@ -20,6 +20,6 @@ Please find attached my [CV]().
  **AaMna AnSari**
  
  <a href="https://www.linkedin.com/in/theamnabb/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="32px" height="32px"></img></a> 
- <a href="mailto:theaamnansari@gmail.com"><img src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png" width="32px" height="32px"></img></a>
+ <a href="mailto:theamnabb@gmail.com"><img src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png" width="32px" height="32px"></img></a>
  <a href="https://linktr.ee/theamnabb"><img src="https://img.icons8.com/?size=100&id=x03G5TG9OoEO&format=png" width="32px" height="32px"></img></a>
 
